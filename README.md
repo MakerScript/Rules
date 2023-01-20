@@ -92,7 +92,6 @@ It's also recomended not to create to large a list of rules, as it can be harder
 * No spamming.
 * No excessive messaging (breaking up an idea in many posts instead of writing all out in just one post).
 * No walls of text (either in separate posts or as a single post).
-* No CAPS LOCK.
 * No overusing emojis.
 * No overusing reactions.
 * No external emojis.
